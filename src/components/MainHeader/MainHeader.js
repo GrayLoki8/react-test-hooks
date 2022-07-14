@@ -9,7 +9,7 @@ const MainHeader = (props) => {
       <h1>React Advanced</h1>
       <Navigation
 
-        onLogout={props.onLogout}
+
       />
     </header>
   );
